@@ -24,6 +24,7 @@ India
     Water
     - Chilka: ang20151228t060124 (largely water, glint and discoloration)
     - Kochi: ang20180319t085702 (bottom half water)
+    https://avng.jpl.nasa.gov/avng/y18_data/ang20180319t085702rfl.tar.gz
     - Mangalore: ang20151231t053313 (largely water, some miscellaneous mainland at top)
     - Ratnagiri: ang20180313t094306 (top 3rd vegatation, bottom 2/3 water)
     - Pichavaram: ang20180318t060114 (right half water, especially bottom right)
