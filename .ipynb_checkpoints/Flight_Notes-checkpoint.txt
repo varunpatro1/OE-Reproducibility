@@ -1,0 +1,56 @@
+AVIRIS-NG Flight Campaigns and Images
+
+India
+    - Chilka: ang20151228t060124 (largely water, glint and discoloration)
+    - Kurnool: ang20160126t055327 (unobscured, rectangular plots of soil and vegatation,       but not distinctly anything)
+    
+    Potential
+    - Mangalore: ang20151231t053313 (largely water, some miscellaneous mainland at top)
+    - Madumalai: ang20180320t062955 (top half soil, bottom half mostly vegegation)
+    - Pichavaram: ang20180318t060114 (right half water, especially bottom right)
+    - Kochi: ang20180319t085702 (bottom half water)
+    - Gokak: ang20180304t092703 (top half mostly soil)
+    - Ratnagiri: ang20180313t094306 (top 3rd vegatation, bottom 2/3 water)
+    - Ratnagiri: ang20180313t094306 (definitely has all 3)
+    - Shimoga: ang20160101t060341 (vegegation with sparse civilization)
+    - Wajrakarur: ang20160128t050943 (soil)
+    - Sitampudi: ang20160110t055421 (soil)
+    - Gadag: ang20180324t064150 (soil)
+    - Udaipur: ang20160202t083409 (soil)
+    - Talala: ang20160213t055054 (vegetation)
+    - Sholayar: ang20160107t071205 (vegetation)
+
+    
+    Water
+    - Chilka: ang20151228t060124 (largely water, glint and discoloration)
+    - Kochi: ang20180319t085702 (bottom half water)
+    - Mangalore: ang20151231t053313 (largely water, some miscellaneous mainland at top)
+    - Ratnagiri: ang20180313t094306 (top 3rd vegatation, bottom 2/3 water)
+    - Pichavaram: ang20180318t060114 (right half water, especially bottom right)
+    
+    Vegetation
+    - Madumalai: ang20180320t062955 (top half soil, bottom half mostly vegegation)
+    - Shimoga: ang20160101t060341 (vegegation with sparse civilization)
+    - Ratnagiri: ang20180313t094306 (top 3rd vegatation, bottom 2/3 water)
+    - Talala: ang20160213t055054
+    - Sholayar: ang20160107t071205
+    
+    Soil
+    - Madumalai: ang20180320t062955 (top half soil, bottom half mostly vegegation)
+    - Gokak: ang20180304t092703 (top half mostly soil)
+    - Wajrakarur: ang20160128t050943 (soil)
+    - Satampudi: ang20160110t055421 (soil)
+    - Gadag: ang20180324t064150 (soil)
+    - Udaipur: ang20160202t083409
+    
+    
+
+    
+    
+
+    
+
+
+    
+    
+
