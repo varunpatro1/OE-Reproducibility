@@ -1,0 +1,22 @@
+Flight List
+
+    - Northern Germany - no reflectance
+        - different types of vegetation
+        
+    - UK - no reflectance
+        - some vegetation and some housing
+        
+    - Antwerp - no reflectance
+        - shipping yard
+        
+    - Brussels - no reflectance
+        - nearly pure vegetation
+        
+    - Switzerland-France border - no reflectance
+        - vegetation, settlement, water
+        
+        
+    - Tulsa, Oklahoma over the Arkansas River
+    
+    - Camarillo, CA
+        - assortment of soil on the farms
