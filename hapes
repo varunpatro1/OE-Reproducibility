@@ -1,0 +1,191 @@
+[33mcommit 723f442b9b6187dc2cf13534f981c0694cf2b167[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 15 10:27:19 2022 -0700
+
+    added color coding to time plots
+
+[33mcommit 5a3c56dc275c4b3c19204e7b3c21f8dbd03fcade[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Varun Patro <varunpatro17@gmail.com>
+Date:   Mon Aug 15 09:42:26 2022 -0700
+
+    moved txt to new dir
+
+[33mcommit cac7a731d4765a822504fed8d8de604f5c61cbc5[m
+Author: Varun Patro <varunpatro17@gmail.com>
+Date:   Mon Aug 15 09:40:28 2022 -0700
+
+    added kmeans SB notebook
+
+[33mcommit cc66a015e8c66a3573d99e6157a21868b12592f5[m
+Author: Varun Patro <varunpatro17@gmail.com>
+Date:   Mon Aug 15 09:38:20 2022 -0700
+
+    added SB kMeans notebook
+
+[33mcommit fb5542dbb663d7bf7871caa9bfc4e43d79c9fb63[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Thu Aug 11 18:18:26 2022 -0700
+
+    generated PCA map for Kurnool
+
+[33mcommit 59addce5713d9972c2b16f161b114cb4b69ca763[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Thu Aug 11 11:39:13 2022 -0700
+
+    Cleaned up clustering run
+
+[33mcommit cfaa765c077d6b192260bcb1f49c44bea78075b1[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Wed Aug 10 19:10:24 2022 -0700
+
+    determined k means issue and didn't use bad bands in clustering
+
+[33mcommit 216218dee52ca6881210f64b2eaa48907855b64e[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Wed Aug 10 16:46:36 2022 -0700
+
+    debugging K means--odd results
+
+[33mcommit ccd9bd87b42855a02aacb16b0759dead65b12647[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Wed Aug 10 07:53:38 2022 -0700
+
+    deleted error cells for clustering covariance display
+
+[33mcommit cbeb6a94baabe17addc05d3d87b8cf4f8ef6b1c3[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Tue Aug 9 15:59:43 2022 -0700
+
+    performed eigenvalue analysis
+
+[33mcommit 3ab66e30ccf965b712e4870e1981cb0e501972cb[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Tue Aug 9 14:38:52 2022 -0700
+
+    developed cleaning for jagged peaks in end bands
+
+[33mcommit e7193f8cf2a9781309aa02f89b432ab873656101[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 8 17:18:19 2022 -0700
+
+    saved changes
+
+[33mcommit d0f515fd94f9afe0a8e6d0aba4e9c9ed354a6609[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 8 17:03:34 2022 -0700
+
+    analysis of clustering and redid with k = 2
+
+[33mcommit 4ffc8a7c8094cecdff32f54d2db3c86bbee151d9[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 8 09:27:28 2022 -0700
+
+    displayed covariance matrix
+
+[33mcommit 927ff1e27960df537b619dd5f25d6040bc19131c[m
+Author: Varun Patro <varunpatro@Varuns-MacBook-Pro.local>
+Date:   Mon Aug 8 00:50:47 2022 -0700
+
+    made small change to savgol test
+
+[33mcommit 03848c5d0ed987faba4b04ec9900d8c075082473[m
+Author: Varun Patro <varunpatro@Varuns-MacBook-Pro.local>
+Date:   Mon Aug 8 00:47:04 2022 -0700
+
+    saved changes
+
+[33mcommit 52c5e00b78be9fe97436098cb1a4f0dddd3a885e[m
+Author: Varun Patro <varunpatro@Varuns-MacBook-Pro.local>
+Date:   Mon Aug 8 00:45:53 2022 -0700
+
+    fixed SavGol issue
+
+[33mcommit 8abbb0c7cc6c650941e4b10ca22e31d9d5c31f56[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Sat Aug 6 10:09:52 2022 -0700
+
+    debugging savgol
+
+[33mcommit 46aee5f1501dce61df3a4f36f0ffae0f3a72a42a[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Fri Aug 5 16:38:19 2022 -0700
+
+    beginning a clustering experiment on 1 india image
+
+[33mcommit cd2d318afe152b394cfe00a7191b48faf03ceaab[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Thu Aug 4 21:54:40 2022 -0700
+
+    small changes
+
+[33mcommit b4fdafc97737e0eefb07b5e045606be768cce463[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Wed Aug 3 14:55:06 2022 -0700
+
+    removed txt files and finished savgol experiments
+
+[33mcommit ff8fe8e559ac2c1a52a3a89e55ec74c252c4b5ad[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Wed Aug 3 10:41:37 2022 -0700
+
+    implementing savgol smoothening
+
+[33mcommit 4731f61fb0f70c3220301bb51f22427c2fd103cd[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Wed Aug 3 08:35:16 2022 -0700
+
+    added zipped folder of photos and determined best savgol fit
+
+[33mcommit be96674b8f8324119fe349eb54b8e95b0b410b67[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Tue Aug 2 23:23:03 2022 -0700
+
+    working on SavGol smoothening
+
+[33mcommit 7cca0898079c452568854cb558ee71dbe21fb76f[m
+Author: Varun <vpatro@ndc.nasa.gov>
+Date:   Tue Aug 2 13:35:20 2022 -0700
+
+    further data processing
+
+[33mcommit e2be6e41c8fba8111e15fd4c7594848c4567dece[m
+Author: varunpatro <vpatro@ndc.nasa.gov>
+Date:   Tue Aug 2 10:45:03 2022 -0700
+
+    added India flight sites to txt
+
+[33mcommit fa94d278637038ca6a82071a26f310600f08b671[m
+Author: varunpatro <vpatro@ndc.nasa.gov>
+Date:   Tue Aug 2 09:19:59 2022 -0700
+
+    changed .ipynb file name
+
+[33mcommit f50a449c3cd74247f0130f31011ef308aac46d82[m
+Author: varunpatro <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 1 18:01:44 2022 -0700
+
+    visualized image across visible light spectrum
+
+[33mcommit 306b2345c89c6009552fac8451548a21d635570a[m
+Author: varunpatro <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 1 17:39:51 2022 -0700
+
+    save
+
+[33mcommit 8267d375cf603fa8df83e4a6c9ed79fcc542fe49[m
+Author: varunpatro <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 1 17:39:04 2022 -0700
+
+    plotted section of image across 10 wavelengths
+
+[33mcommit c838c7339d9a9387b78c8c7351c6b5e040e51a7a[m
+Author: varunpatro <vpatro@ndc.nasa.gov>
+Date:   Mon Aug 1 09:34:17 2022 -0700
+
+    running ISOFIT within Jupyter and testing reproducibility
+
+[33mcommit 0f972d4f7e79b59cdb461707869a8265cb672a12[m
+Author: varunpatro1 <72895564+varunpatro1@users.noreply.github.com>
+Date:   Mon Aug 1 08:29:53 2022 -0700
+
+    Add files via upload
