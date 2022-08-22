@@ -1,0 +1,44 @@
+NOTES ON ISOFIT
+
+
+isofit.core.common
+
+	Class VectorInterpolator - untested
+
+	def load_wavelen()- tested
+
+	def emissive_radiance() - still having issues with testing
+
+	def svd_inv() - still having issues with asserts in prelim_common.py
+
+	def svd_inv_sqrt() - contains the actual matrix inversion - issues to be resolved
+
+	def expand_path() - not robust, because forward slash specified and 
+	lacking check of file existence; rewritten with initial check and using os.path.abspath
+
+		- question about catching exceptions here
+
+	def recursive_replace()- tested
+
+	def get_absorption() - tested
+
+	def recursive_reencode() - checked that function visits every place it intends to- unsure about expandvars()
+	function designed to expand variables
+
+	def json_load_ascii() - untested
+
+	def expand_all_paths() - tested
+
+	def find_header() - tested
+
+	def resample_spectrum() - possibly an error in finding nearest good index
+
+	def load_spectrum() - tested
+
+	def spectral_response_function() - tested
+
+	def combos() - tested
+
+	def conditional_gaussian() - untested
+
+	def envi_header() - unable to test because os.path.isfile() checks file system to see if files exist
